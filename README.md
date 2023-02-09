@@ -1,4 +1,4 @@
-# Django SignUp Project
+# Django SignUp Project By Will Vincent
 
 To create a sign up page we will need to make our own view and url. Let's begin!
 
