@@ -11,6 +11,7 @@ To create a sign up page we will need to make our own view and url. Let's begin!
 6. Define your view function in accounts/views.py
 7. Create a template folder and create another folder called accounts which should have signup.html file.
 8. Direct template in your settings.py
+9. After running the server, head up to http://127.0.0.1:8000/accounts/signup/ to view the signup form
 
 I learned this Project from https://learndjango.com/tutorials/django-signup-tutorial
 
