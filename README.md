@@ -2,7 +2,7 @@
 
 To create a sign up page we will need to make our own view and url. Let's begin!
 
-**Steps**
+**Steps To Reproduce**
 1. django-admin startproject authentication . Command To create project called authentication
 2. python manage.py startapp accounts. Command to create a dedicated app called accounts
 3. Register app with django. Anytime you want to use a new app inside of a Django project, you need to register it in the settings.py file. Add accounts to the installed_apps in you settings.py
